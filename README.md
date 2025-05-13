@@ -3,21 +3,35 @@ Documenting my 8-month journey into Machine Learning and Artificial Intelligence
 
 # 🧠 ML Learning Journey
 
-Hi, I'm Caleb Udeibom — a software developer transitioning into Artificial Intelligence and Machine Learning.
+Welcome! I'm **Caleb Udeibom**, a software developer transitioning into Artificial Intelligence and Machine Learning.
 
-This repository documents my 8-month journey, including:
+This repository tracks my structured 8-month journey, including:
 
-- 📘 Notes from courses
-- 📊 Mini-projects and experiments
-- 🧪 Algorithms and models I build
-- 📅 Weekly progress logs
+- 📘 Weekly learning progress
+- 🛠️ Projects and experiments
+- 🧠 Algorithms and model implementations
+- 📈 Learning reflections and goals
 
-## Week 1: Getting Started
+---
 
-✅ Set up my learning roadmap  
-✅ Started Python for Data Science  
+## 🚀 Current Status: Week 1 – Getting Started
+
+✅ Set up roadmap  
+✅ Started Exploratory Data Analysis for Machine Learning 
+✅ Made public commitment on [LinkedIn](https://www.linkedin.com/posts/caleb-udeibom-3495a023b_machinelearning-artificialintelligence-learninginpublic-activity-7327981578767286273-nRMF) and [X/Twitter](https://x.com/c_udeibom/status/1922368993127460995)  
+✅ Created this GitHub repo
+
+---
+
+📅 I’ll update this each week with progress, notes, and real projects as I grow from beginner to applied ML developer.
+
+Follow the journey or connect with me on LinkedIn if you’re learning too.
+
 ✅ Posted my commitment on LinkedIn and Twitter  
 ✅ Connected with the ML/AI community  
+
+![My ML Roadmap](roadmap.png)
+
 
 I'll be updating this README every week.
 
