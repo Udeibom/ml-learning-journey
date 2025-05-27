@@ -1,0 +1,20 @@
+Insight Report: EEDC Energy Distribution Analysis (Jan–May 2025)
+
+This analysis investigates the monthly energy caps distributed by Enugu Electricity Distribution Company (EEDC) across various Business Units (BUs) and feeders from January to May 2025. The goal is to extract meaningful insights to guide equitable energy distribution and infrastructure development.
+Key Insights:
+1.Unequal Distribution of Energy Caps: Enugu and Aba BUs consistently received the highest total energy caps.
+Abakaliki and Owerri BUs had the lowest energy allocations in the same period.
+This disparity may reflect differences in demand, infrastructure, or policy—but also raises equity concerns for smaller regions.
+2.Top and Bottom Feeders within BUs: A few high-performing feeders dominate energy allocation within each BU.
+Some feeders consistently receive significantly lower energy, suggesting either under utilization or infrastructure limitations.
+This imbalance could lead to service reliability issues and lower customer satisfaction in under served areas.
+3.Feeder Supply Instability: Several feeders exhibited high month-to-month variability in allocated energy, indicating unstable supply.
+This fluctuation can negatively affect households and small businesses dependent on consistent power.
+
+Recommendations:
+1.Equity-Focused Planning: EEDC should review allocation strategies to ensure that less-served regions are not structurally disadvantaged.
+2.Infrastructure Diagnosis for Low-Cap Feeders: Low-performing feeders should be audited for issues such as aging infrastructure, theft, or billing anomalies.
+3.Stabilize High-Variance Feeders Feeders: with unstable caps should be targeted for technical evaluation to improve consistency in supply.
+4.Promote Public Transparency: A public-facing energy dashboard showing monthly cap allocations can empower community stakeholders and promote accountability.
+5.Integrate Demand Forecasting: The pattern of energy caps can inform future forecasting models to better match supply with anticipated demand trends.
+
